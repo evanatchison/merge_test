@@ -2,3 +2,5 @@
 practicing merging
 
 HELP
+
+I don't like st olaf swimming
